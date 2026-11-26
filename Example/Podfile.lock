@@ -1,0 +1,16 @@
+PODS:
+  - SSAppPermissionsObjC (0.1.0)
+
+DEPENDENCIES:
+  - SSAppPermissionsObjC (from `../`)
+
+EXTERNAL SOURCES:
+  SSAppPermissionsObjC:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SSAppPermissionsObjC: 4e93a4219f8042a750623d756ac087297d233153
+
+PODFILE CHECKSUM: 9f43cbe9feb9a9427fdbff3ed6548cd0b211f66f
+
+COCOAPODS: 1.16.2

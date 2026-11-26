@@ -1,0 +1,6 @@
+framework module SSAppPermissionsObjC {
+  umbrella header "SSAppPermissionsObjC-umbrella.h"
+
+  export *
+  module * { export * }
+}
